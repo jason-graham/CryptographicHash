@@ -1,0 +1,6 @@
+*.user
+*.suo
+/source/bin/Debug
+/source/obj/Debug
+/tests/obj/Debug
+/tests/bin/Debug
